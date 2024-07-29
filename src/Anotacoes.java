@@ -48,6 +48,12 @@
 // Ver exemplo em "Pessoa.java"
 // Uso da palavra reservada "this"
 
+// Enums
+// Enum -> Tipo especial de classe
+// Objetos são previamente criados
+// Exemplo em EstadoBrasileiro
+
+
 
 
 
