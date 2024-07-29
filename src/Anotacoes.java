@@ -32,6 +32,18 @@
 // Convenções de pacotes
 // Ver exemplo em "com.mastersoft.clinical"
 
+// Visibilidade dos Recursos
+// Modificadores (public, static, void)
+// public -> qualquer classe em outro pacote pode visualizar esse recurso
+// default -> classe oculta em outros pacotes
+// private -> nem classes no mesmo pacote conseguem ver
+
+// Getters e Setters
+// Getter -> Retorna o valor do atributo especificado
+// Setter -> Define outro novo valor para o atributo especificado
+
+
+
 
 
 
