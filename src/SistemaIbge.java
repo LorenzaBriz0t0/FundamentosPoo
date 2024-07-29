@@ -4,9 +4,10 @@ public class SistemaIbge {
         for(EstadoBrasileiro e: EstadoBrasileiro.values()) {
             System.out.println(e.getSigla() + " - " + e.getNome());
         }
-    }
-     EstadoBrasileiro eb = EstadoBrasileiro.PIAUI;
-     System.out.println(eb.getNome());
+        EstadoBrasileiro eb = EstadoBrasileiro.PIAUI;
+     System.out.println(eb.getNome() );
 
+    }
+     
 
 }
