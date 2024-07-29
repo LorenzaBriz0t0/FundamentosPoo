@@ -43,6 +43,12 @@
 // Setter -> Define outro novo valor para o atributo especificado
 // Ver exemplo em "escola"
 
+// Construtores
+// Instanciamento de objetos
+// Ver exemplo em "Pessoa.java"
+// Uso da palavra reservada "this"
+
+
 
 
 
