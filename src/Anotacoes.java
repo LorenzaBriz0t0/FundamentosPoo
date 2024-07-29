@@ -53,6 +53,27 @@
 // Objetos são previamente criados
 // Exemplo em EstadoBrasileiro
 
+// UML
+// Linguagem de Modelagem Unificada
+// Diagramas de Classes
+// Diagramas de Objetos
+// Associação -> Simples, bidirecional, agregação, composição
+// Dependência
+// Agregação -> Não está associada à existência, não tem dependência
+// Composição -> São dependentes
+// Multiplicidade
+// 1. -> Associação de um elemento
+// *. -> Associação de lista de elementos
+// 0..1 -> Associação de zero ou um elementos
+// 0..* -> Associação de zero ou uma lista de elementos
+// Visibilidade
+//(+) -> Público
+//(#) -> Protegido
+//(-) -> Privada
+
+
+
+
 
 
 
